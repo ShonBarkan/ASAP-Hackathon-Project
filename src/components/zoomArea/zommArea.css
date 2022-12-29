@@ -1,0 +1,30 @@
+.custom-shape-divider-bottom-1672279448 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1672279448 svg {
+    position: relative;
+    display: block;
+    width: calc(103% + 1.3px);
+    height: 20vh;
+}
+
+.custom-shape-divider-bottom-1672279448 .shape-fill {
+    fill: #EEA909;
+}
+
+.MYdiv{
+    margin-top: 10%;
+    width: 30%;
+    margin-left: 35%;
+}
+
+.myBTN{
+    width: 100%;
+}

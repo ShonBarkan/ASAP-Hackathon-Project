@@ -1,0 +1,23 @@
+.SmallTeacherCard{
+    width: 20vh;
+    height:24vh;
+    align-items: center; 
+    /* justify-content: end;    */
+    margin-left: 2%;
+}
+.picsA{
+    height: 40%;
+    border: 3px solid green;
+    border-radius: 80%;
+    margin-bottom:7%
+}
+.picsU{
+    height: 40%;
+    border: 3px solid rgb(255, 0, 0);
+    border-radius: 80%;
+    margin-bottom:7%
+}
+
+.SmallTeacherCard:hover {
+    height: 26vh;
+  }

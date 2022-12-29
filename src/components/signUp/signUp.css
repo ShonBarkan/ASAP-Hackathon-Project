@@ -1,0 +1,32 @@
+
+.Myfrom{
+    max-width: 600px;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 5%;
+
+}
+#grade{
+    width: 50%;
+    margin: auto;
+}
+#next{
+    display:none;
+    margin: auto;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    width: 100%;
+}
+
+.custom-shape-divider-bottom-1672258320 .shape-fill {
+    fill: #f2a808;
+}
+
+.custom-shape-divider-bottom-1672259542 .shape-fill {
+    fill: #f2a808;
+}
+
+.kotert{
+    margin: 0;
+    margin-bottom: 2%;
+}

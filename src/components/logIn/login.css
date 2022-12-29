@@ -1,0 +1,50 @@
+#code{
+    display: none;
+}
+#toWaitingPage{
+    display: none;
+}
+.myInput{
+    width: 60%;
+}
+.signUp{
+    width: 100%;
+}
+.sub2{
+    width: 70%;
+    margin-bottom: 2% ;
+    margin-left:15% ;
+}
+
+.Myfrom{
+    max-width: 900px;
+   width: 60%;
+   margin: auto;
+}
+.MYbtn{
+    height: 80%;
+    margin-top: 5%;
+}
+#toWaitingPage{
+    width: 70%;
+    margin-left: 13%;
+}
+
+
+.custom-shape-divider-bottom-1672258320 .shape-fill {
+    fill: #f2a808;
+}
+
+.custom-shape-divider-bottom-1672259542 .shape-fill {
+    fill: #f2a808;
+}
+.kotert{
+    margin: 0;
+    margin-bottom: 2%;
+}
+
+#no1{
+    display: none;
+}
+
+

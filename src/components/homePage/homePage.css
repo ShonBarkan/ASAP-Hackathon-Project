@@ -1,0 +1,105 @@
+.header{
+    background-color:rgb(215, 142, 51);
+    height: 5vh;
+}
+
+.main{
+    height: 90vh;
+    width: 100%;
+}
+.hello{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0pxs;
+    margin-top:3% ;
+    margin-bottom:2% ;
+    width: max-content;
+    margin-left: 53%;
+
+}
+.dropdown{
+    /* display: flex; */
+    justify-content: center;
+    margin-top: 40%;
+    width: max-content;
+    
+}
+
+#dropdown-basic{
+    font-size: 25px;
+}
+.SmallTeachersDiv{
+    display: flex;
+    flex-direction: row;  
+    height: 20vh;
+    width: 100vw;
+    margin-top: 3vh;  
+    justify-content: center;
+    position:absolute;
+}
+.myDrop{
+    margin-left:47.5%;
+    margin-bottom: 0px;
+}
+#BigCard{
+    display: none;
+}
+
+.buttonInDrop{
+    width: 80%;
+    font-size: 18px;
+    background-color: transparent;
+    border: none;
+}
+.up{
+    display: grid;
+    grid-template-columns: 75% 20%;
+}
+
+
+.custom-shape-divider-bottom-1672295952 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1672295952 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 79px;
+}
+
+.custom-shape-divider-bottom-1672295952 .shape-fill {
+    fill: #EEA909;
+}
+
+.custom-shape-divider-top-1672296282 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-top-1672296282 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 103px;
+}
+
+.custom-shape-divider-top-1672296282 .shape-fill {
+    fill: #EEA909;
+}
+.myIcon{
+    margin: 0px;
+    width: 10%;
+    display: none;
+}

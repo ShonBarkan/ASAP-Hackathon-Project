@@ -1,0 +1,30 @@
+.BigTeacherCard{
+ height: min-content;
+}
+.info{
+    margin-left:4% ;
+    display: flex;
+}
+
+.BigTeacherCard{
+    height: max-content;
+    width: 30%;
+    border: black solid;
+    margin-left: 35%;
+    display: block;
+}
+.start{
+    width: 90%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left:5% ;
+}
+
+.myText{
+    font-size: 20px;
+}
+
+#thePic{
+    border-radius: 80%;
+    margin-top: 8%;
+}
